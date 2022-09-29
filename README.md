@@ -18,7 +18,7 @@ Neste projeto, foram verificadas as seguintes habilidades:
 * Testar inputs.
 
 
-### Antes de começar a desenvolver:
+### Como abrir o projeto:
 
 1. Clone o repositório
   * `git clone https://github.com/BrunaScauri/trybe-reactTestingLibrary`
@@ -31,3 +31,5 @@ Neste projeto, foram verificadas as seguintes habilidades:
 
 4. Rode o comando de teste com o nome do arquivo de teste:
   * `npm run test About.test.js`
+
+---
